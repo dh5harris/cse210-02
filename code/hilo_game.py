@@ -2,7 +2,7 @@ import random
 def main():
     points = 300
     play_game(points)
-
+    
 def play_game(points):
     while points >0:
         card_value_initial = random.randint(1,13)
