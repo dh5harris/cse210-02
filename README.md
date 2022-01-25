@@ -1,6 +1,6 @@
 #cse210-02
 #Team project file for CSE 210
-#This is Weylin
+Team contributors -  Weylin Douglas, Daniel Harris, Kirsten Jackson, Christi Johnson, Christian Mijangos
 
 
 # Hilo
