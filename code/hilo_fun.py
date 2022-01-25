@@ -36,9 +36,3 @@ def scoring(player_guess,card_value_initial,card_value_next):
     
 if __file__==main():
     main()
-
-
-
-
-
-
