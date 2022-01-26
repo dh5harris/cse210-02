@@ -1,6 +1,9 @@
 #cse210-02
 #Team project file for CSE 210
 
+Team contributors - Weylin Douglas, Daniel Harris, Kirsten Jackson, Christi Johnson, Christian Mijangos
+=======
+
 ```
 Team contributors -
   Weylin Douglas Weylin76@msn.com,
@@ -9,6 +12,7 @@ Team contributors -
   Christi Johnson joh21088@byui.edu,
   Christian Mijangos mij17001@byui.edu
 ```
+
 
 # Hilo
 
@@ -47,9 +51,17 @@ python.exe hilo
 The project files and folders are organized as follows:
 
 ```
+
+root                    (project root folder)
++-- hilo_game           (source code for game)
+  +-- director          (specific classes)
+  +-- __main__.py       (program entry point)
++-- README.md           (general info)
+=======
 root              (Project root folder)
 +-- card          (Source code)
   +-- game        (Specific classes)
   +-- __main__.py (Program entry point)
 +-- README.md     (general info)
+
 ```
