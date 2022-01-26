@@ -1,7 +1,14 @@
 #cse210-02
 #Team project file for CSE 210
-Team contributors - Weylin Douglas Weylin76@msn.com, Daniel Harris har21072@byui.edu, Kirsten Jackson jac19019@byui.edu,
-Christi Johnson joh21088@byui.edu, Christian Mijangos mij17001@byui.edu
+
+```
+Team contributors -
+  Weylin Douglas Weylin76@msn.com,
+  Daniel Harris har21072@byui.edu,
+  Kirsten Jackson jac19019@byui.edu,
+  Christi Johnson joh21088@byui.edu,
+  Christian Mijangos mij17001@byui.edu
+```
 
 # Hilo
 
