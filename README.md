@@ -1,6 +1,18 @@
 #cse210-02
 #Team project file for CSE 210
+
 Team contributors - Weylin Douglas, Daniel Harris, Kirsten Jackson, Christi Johnson, Christian Mijangos
+=======
+
+```
+Team contributors -
+  Weylin Douglas Weylin76@msn.com,
+  Daniel Harris har21072@byui.edu,
+  Kirsten Jackson jac19019@byui.edu,
+  Christi Johnson joh21088@byui.edu,
+  Christian Mijangos mij17001@byui.edu
+```
+
 
 # Hilo
 
@@ -23,14 +35,33 @@ If a player reaches 0 points the game is over.
 If a player has more than 0 points they decide if they want to keep playing.
 If a player decides not to play again the game is over.
 
+# Getting Started
+
+---
+
+Use Python 3.8.x or newer installed and running on your machine. Open a terminal and browse to the project's
+root folder. Start the program by running the following command
+
+```
+python.exe hilo
+```
+
 ## Project Structure
 
 The project files and folders are organized as follows:
 
 ```
+
 root                    (project root folder)
 +-- hilo_game           (source code for game)
   +-- director          (specific classes)
   +-- __main__.py       (program entry point)
 +-- README.md           (general info)
+=======
+root              (Project root folder)
++-- card          (Source code)
+  +-- game        (Specific classes)
+  +-- __main__.py (Program entry point)
++-- README.md     (general info)
+
 ```
