@@ -38,11 +38,14 @@ If a player decides not to play again the game is over.
 ---
 
 Use Python 3.8.x or newer installed and running on your machine. Open a terminal and browse to the project's
-root folder. Start the program by running the following command
+root folder. Start the program by running the following command:
 
 ```
 python.exe hilo
 ```
+
+You can also run the program from an IDE like Visual Studio Code. Start your IDE and open the
+project folder. Select the main module inside the dice folder and click the "run" button.
 
 ## Project Structure
 
